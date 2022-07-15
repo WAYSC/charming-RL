@@ -8,3 +8,10 @@
 task NO.1 基础+习题
 
 [概论](https://linklearner.com/datawhale-homepage/#/learn/detail/91)
+
+### 7.15
+task NO.2 ch2+项目一（跑通）
+
+[ch2](https://github.com/WAYSC/charming-RL/blob/main/Notes/%E8%98%91%E8%8F%87%E4%B9%A6/ch2.md)
+
+[project1](https://github.com/WAYSC/charming-RL/tree/main/Code/%E8%98%91%E8%8F%87%E4%B9%A6/ch2%263)
