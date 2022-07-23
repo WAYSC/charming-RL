@@ -20,5 +20,7 @@ task NO.2 ch2+项目一（跑通）
 不跟task来了，难度有点大，不适合我这样的菜鸟😭
 
 动态规划算法：
-1. 基于策略迭代，[笔记](https://github.com/WAYSC/charming-RL/blob/main/Notes/Hands-on%20Reinforcement%20Learning/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95.md)，[代码](https://github.com/WAYSC/charming-RL/tree/main/Code/Hands-on%20Reinforcement%20Learning/cliff-walking)
+1. 基于策略迭代
 2. 基于价值迭代
+
+[笔记](https://github.com/WAYSC/charming-RL/blob/main/Notes/Hands-on%20Reinforcement%20Learning/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95.md)，[代码](https://github.com/WAYSC/charming-RL/tree/main/Code/Hands-on%20Reinforcement%20Learning/cliff-walking)
